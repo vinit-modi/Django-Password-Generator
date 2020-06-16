@@ -62,7 +62,7 @@ To setting up project locally, You need to follow these simple example steps.
 ### Prerequisites
 
 Download the python.
-[Python](https://www.python.org/downloads/)
+* [Python](https://www.python.org/downloads/)
 
 You need to have Django installed in your machine.
 * Django
@@ -70,7 +70,7 @@ You need to have Django installed in your machine.
 $ python -m pip install Django
 ```
 Also, make sure git is installed in your machine.
-[Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ### Installation
 
