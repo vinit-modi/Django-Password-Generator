@@ -35,3 +35,20 @@
 
 [product-screenshot]: /static/screenshot1.jpg
 [product-screenshot-2]: /static/screenshot2.jpg
+
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+
+Here's why:
+* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+
+### Built With
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+* [Bootstrap](https://getbootstrap.com)
+* [Django](https://www.djangoproject.com/)
