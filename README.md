@@ -29,7 +29,7 @@
 * [Contributing](#contributing)
 * [Contact](#contact)
 
-[![Product Name Screen Shot][product-screenshot1]]
+[![Product Name Screen Shot] product-screenshot1]
 
 
 [product-screenshot1]: /static/screenshot1.jpg
