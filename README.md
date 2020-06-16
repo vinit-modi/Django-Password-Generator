@@ -16,6 +16,7 @@
 </p>
 
 <!-- TABLE OF CONTENTS -->
+<br>
 ## Table of Contents
 
 * [About the Project](#about-the-project)
@@ -27,3 +28,7 @@
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [Contact](#contact)
+
+[![Product Name Screen Shot][product-screenshot]](https://modivinit.com)
+
+[product-screenshot]: /static/screenshot1.jpg
