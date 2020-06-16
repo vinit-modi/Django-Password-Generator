@@ -1,0 +1,11 @@
+body{
+    background-image: url('../background.svg');
+}
+
+.container{
+    margin-top: 50px;
+}
+
+.btn{
+    margin-top: 10px;
+}
