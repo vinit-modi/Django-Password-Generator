@@ -30,8 +30,8 @@
 * [Contact](#contact)
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/vinit-modi/Django-Password-Generator/blob/master/static/screenshot1.jpg)
-[![Product Name Screen Shot][product-screenshot]](https://github.com/vinit-modi/Django-Password-Generator/blob/master/static/screenshot2.jpg)
+[![Product Name Screen Shot][product-screenshot-2]](https://github.com/vinit-modi/Django-Password-Generator/blob/master/static/screenshot2.jpg)
 
 
 [product-screenshot]: /static/screenshot1.jpg
-[product-screenshot]: /static/screenshot2.jpg
+[product-screenshot-2]: /static/screenshot2.jpg
