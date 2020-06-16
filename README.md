@@ -29,7 +29,9 @@
 * [Contributing](#contributing)
 * [Contact](#contact)
 
-[![Product Name Screen Shot] product-screenshot1]
+[![Product Name Screen Shot][product-screenshot]](https://github.com/vinit-modi/Django-Password-Generator/blob/master/static/screenshot1.jpg)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/vinit-modi/Django-Password-Generator/blob/master/static/screenshot2.jpg)
 
 
-[product-screenshot1]: /static/screenshot1.jpg
+[product-screenshot]: /static/screenshot1.jpg
+[product-screenshot]: /static/screenshot2.jpg
