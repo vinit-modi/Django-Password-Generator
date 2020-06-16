@@ -17,6 +17,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <br>
+
 ## Table of Contents
 
 * [About the Project](#about-the-project)
@@ -60,16 +61,15 @@ To setting up project locally, You need to follow these simple example steps.
 
 ### Prerequisites
 
-Download the python
-* python
+Download the python.
 [Python](https://www.python.org/downloads/)
+
 You need to have Django installed in your machine.
 * Django
 ```sh
 $ python -m pip install Django
 ```
 Also, make sure git is installed in your machine.
-* git
 [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ### Installation
