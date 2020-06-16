@@ -30,7 +30,6 @@
 * [Contact](#contact)
 
 [![Product Name Screen Shot][product-screenshot1]]
-[![Product Name Screen Shot][product-screenshot2]]
+
 
 [product-screenshot1]: /static/screenshot1.jpg
-[product-screenshot2]: /static/screenshot2.jpg
