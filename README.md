@@ -29,6 +29,8 @@
 * [Contributing](#contributing)
 * [Contact](#contact)
 
-[![Product Name Screen Shot][product-screenshot]](https://modivinit.com)
+[![Password Generator Home Screen Shot][product-screenshot1]]
+[![Generated Password Screen Shot][product-screenshot2]]
 
-[product-screenshot]: /static/screenshot1.jpg
+[product-screenshot1]: /static/screenshot1.jpg
+[product-screenshot2]: /static/screenshot2.jpg
