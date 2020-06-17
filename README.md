@@ -10,7 +10,7 @@
   <h3 align="center">Password Generator</h3>
 
   <p align="center">
-    A Password generator tool which create secure passwords that are impossible to crack.!
+    A Password generator tool that creates secure passwords that are impossible to crack.!
     <br />
   </p>
 </p>
