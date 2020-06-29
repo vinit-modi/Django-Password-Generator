@@ -46,7 +46,7 @@
 • The app will run in the browser and feature dynamically updated HTML and CSS powered by the Django code. <br />
 
 ### Built With
-I had fun while making this website with django environment. also we all know the power of Bootstrap
+I had fun while making this website with django environment. Also we all know the power of Bootstrap.
 * [Bootstrap](https://getbootstrap.com)
 * [Django](https://www.djangoproject.com/)
 
