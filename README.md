@@ -25,7 +25,6 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [Contact](#contact)
@@ -40,19 +39,14 @@
 [product-screenshot-2]: /static/screenshot2.jpg
 
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
-
-Here's why:
-* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+• To prevent the passwords from being hacked by social engineering, brute force or dictionary attack method, and keep your online accounts safe.
+• A Password generator is a simple website that generates a random password based on user-selected criteria. 
+• User can select among Uppercase, special character and numbers.
+• Also, User is able to select the length of generated password.
+• The app will run in the browser and feature dynamically updated HTML and CSS powered by the Django code.
 
 ### Built With
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+I had fun while making this website with django environment. also we all know the power of Bootstrap
 * [Bootstrap](https://getbootstrap.com)
 * [Django](https://www.djangoproject.com/)
 
@@ -86,11 +80,6 @@ git clone https://github.com/vinit-modi/Django-Password-Generator
 ```sh
 python manage.py runserver
 ```
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
 
 <!-- ROADMAP -->
 ## Roadmap
