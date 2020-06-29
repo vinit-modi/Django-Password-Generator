@@ -39,11 +39,11 @@
 [product-screenshot-2]: /static/screenshot2.jpg
 
 
-• To prevent the passwords from being hacked by social engineering, brute force or dictionary attack method, and keep your online accounts safe.
-• A Password generator is a simple website that generates a random password based on user-selected criteria. 
-• User can select among Uppercase, special character and numbers.
-• Also, User is able to select the length of generated password.
-• The app will run in the browser and feature dynamically updated HTML and CSS powered by the Django code.
+• To prevent the passwords from being hacked by social engineering, brute force or dictionary attack method, and keep your online accounts safe. <br />
+• A Password generator is a simple website that generates a random password based on user-selected criteria. <br />
+• User can select among Uppercase, special character and numbers. <br />
+• Also, User is able to select the length of generated password. <br />
+• The app will run in the browser and feature dynamically updated HTML and CSS powered by the Django code. <br />
 
 ### Built With
 I had fun while making this website with django environment. also we all know the power of Bootstrap
